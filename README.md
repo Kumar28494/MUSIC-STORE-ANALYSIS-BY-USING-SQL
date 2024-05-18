@@ -1,1 +1,4 @@
 # MUSIC-STORE-ANALYSIS-BY-USING-SQL
+![Screenshot (163)](https://github.com/Kumar28494/MUSIC-STORE-ANALYSIS-BY-USING-SQL/assets/145334281/4f8485a5-1200-4d60-adf6-2926750ea6ee)
+![Screenshot (164)](https://github.com/Kumar28494/MUSIC-STORE-ANALYSIS-BY-USING-SQL/assets/145334281/7cfa93a5-a69b-44db-93af-c5af3b6b8247)
+
